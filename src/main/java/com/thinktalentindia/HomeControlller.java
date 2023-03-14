@@ -1,12 +1,13 @@
-package com.thinktalentindia.test;
+package com.thinktalentindia;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author Shuvendu Moharana This is responsible to drive the user related
- *         queries.
+ * @author Shuvendu Moharana 
+ * This is responsible to drive the 
+ * user related queries.
  */
 @RestController
 public class HomeControlller {
