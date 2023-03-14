@@ -1,4 +1,4 @@
-package com.thinktalentindia.test;
+package com.thinktalentindia;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
